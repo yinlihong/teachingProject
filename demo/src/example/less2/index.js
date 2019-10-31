@@ -1,5 +1,5 @@
 import React from 'react'
-// import './index.less';
+// import './index.module.less';
 import Son1 from './Son1'
 import Son2 from './Son2'
 function Less() {
